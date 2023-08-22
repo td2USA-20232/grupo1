@@ -1,1 +1,4 @@
 # grupo1
+
+- ERIK LOPEZ
+- JUAN DIEGO ROMAN
